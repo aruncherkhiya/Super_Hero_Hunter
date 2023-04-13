@@ -1,5 +1,4 @@
-# superhero-hunter
+Superhero hunter
 
-To do go the app, below is a link.
 
-# https://prateek-works.github.io/superhero-hunter/
+This is project is made using HTML, CSS, Js.
